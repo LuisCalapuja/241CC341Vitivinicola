@@ -6,7 +6,6 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-import java.util.Date;
 
 @Entity
 @Table(name="Producto")
@@ -19,7 +18,7 @@ public class Producto {
     private String categoria;
     @Column(unique = true, length = 13)
     private double precio;
-    private Date fecha_ingreso;
+    private int cantidad;
 
     public int getId() {
         return id;
@@ -61,12 +60,12 @@ public class Producto {
         this.precio = precio;
     }
 
-    public Date getFecha_ingreso() {
-        return fecha_ingreso;
+    public int getCantidad() {
+        return cantidad;
     }
 
-    public void setFecha_ingreso(Date fecha_ingreso) {
-        this.fecha_ingreso = fecha_ingreso;
+    public void setCantidad(int cantidad) {
+        this.cantidad = cantidad;
     }
     
 }

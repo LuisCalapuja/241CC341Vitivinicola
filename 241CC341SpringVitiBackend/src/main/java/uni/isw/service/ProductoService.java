@@ -26,4 +26,8 @@ public class ProductoService {
     public void eliminar(Producto prod){
         productorepo.delete(prod);
     }
+
+    public Object findById(Long id) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }

@@ -1,5 +1,6 @@
-uni\isw\service\ProductoService.class
 uni\isw\repo\ProductoRepo.class
 uni\isw\Application.class
-uni\isw\Controller\ProductoController.class
 uni\isw\entity\Producto.class
+uni\isw\service\ProductoService.class
+uni\isw\Controller\ProductoController.class
+uni\isw\excepciones\ResourceNotFoundException.class

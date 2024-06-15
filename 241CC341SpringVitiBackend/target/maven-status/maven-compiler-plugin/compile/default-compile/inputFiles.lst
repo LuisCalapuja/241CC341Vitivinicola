@@ -1,5 +1,6 @@
 C:\Users\marg_\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\UNI\2024-1\ING SOFTWARE\241CC341SpringVitiBackend\src\main\java\uni\isw\Application.java
 C:\Users\marg_\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\UNI\2024-1\ING SOFTWARE\241CC341SpringVitiBackend\src\main\java\uni\isw\Controller\ProductoController.java
 C:\Users\marg_\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\UNI\2024-1\ING SOFTWARE\241CC341SpringVitiBackend\src\main\java\uni\isw\entity\Producto.java
+C:\Users\marg_\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\UNI\2024-1\ING SOFTWARE\241CC341SpringVitiBackend\src\main\java\uni\isw\excepciones\ResourceNotFoundException.java
 C:\Users\marg_\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\UNI\2024-1\ING SOFTWARE\241CC341SpringVitiBackend\src\main\java\uni\isw\repo\ProductoRepo.java
 C:\Users\marg_\OneDrive - UNIVERSIDAD NACIONAL DE INGENIERIA\Desktop\UNI\2024-1\ING SOFTWARE\241CC341SpringVitiBackend\src\main\java\uni\isw\service\ProductoService.java
